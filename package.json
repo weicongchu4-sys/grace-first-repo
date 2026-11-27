@@ -1,0 +1,1 @@
+{"description":"grace 的第一个 Node.js 入门小项目：一个会打招呼的小程序","engines":{"node":">=18"},"main":"src/index.js","name":"grace-node-starter","private":true,"scripts":{"start":"node src/index.js","test":"node --test"},"type":"commonjs","version":"1.0.0"}
